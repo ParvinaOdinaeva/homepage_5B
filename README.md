@@ -2,7 +2,7 @@
 ## Here is my homework from module 5 part B - presenting a currency exchange calculator from PLN to foreign currencies
 
 The webpage was created based on the knowledge gained from previous modules, 
-updated with a page icon, openGraph, using arrow function in JS
+updated with a page icon, openGraph, using arrow function in JS and Flex in CSS
 
 Demo
 
