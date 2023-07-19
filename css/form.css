@@ -1,9 +1,8 @@
 .form {
+    flex-basis: 800px;
     width: 100%;
-    max-width: 800px;
-    padding: 100px 50px;
-    margin: 0 auto;
-    text-align: justify;
+    padding: 100px 10px;
+    margin: 20px;
 }
 
 .form__fieldset {
