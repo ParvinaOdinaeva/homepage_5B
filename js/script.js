@@ -16,6 +16,18 @@
     }
   }
 
+
+  const resultReset = () => {
+    const resultElement = document.querySelector(".js-result");
+    const resetButton = document.querySelector(".js-resetButton");
+
+    resetButton.addEventListener("click", () => {
+      resultElement.innerText = "";
+    });
+
+  };
+
+
   const onFormSubmit = (event) => {
       event.preventDefault();
   
@@ -38,5 +50,5 @@
   }
 
   init();
-
+  resultReset();
 }
