@@ -33,7 +33,7 @@
     border: 1px solid hsl(180, 17%, 91%);
     border-radius: 5px;
     box-shadow: 1px 1px 37px -14px rgb(135, 230, 236)inset;
-    padding: 2px;
+    padding: 8px;
     width: 100%;
     max-width: 400px;
 }
